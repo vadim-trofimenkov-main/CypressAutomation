@@ -1,6 +1,6 @@
 /// <reference types = "Cypress"/>
-import HomePage from "..//pageObjects/HomePage";
-import ProductsPage from "..//pageObjects/ProductsPage";
+import HomePage from "../../support/pageObjects/HomePage";
+import ProductsPage from "../../support/pageObjects/ProductsPage";
 describe("My first ever test suite on JS", function () {
   before(function () {
     cy.fixture("example").then((data) => {
