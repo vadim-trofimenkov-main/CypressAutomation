@@ -1,0 +1,6 @@
+{
+  "defaultCommandTimeout": 8000,
+  "env": {
+    "practiceUdemuCourseUrl": "https://rahulshettyacademy.com/angularpractice/"
+  }
+}

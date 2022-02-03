@@ -1,0 +1,9 @@
+{
+  "name": "Ann",
+  "password": "qwerty12345",
+  "gender": "Female",
+  "email": "ann@test.test",
+  "ifyouLoveIceCreams": true,
+  "employmentStatus": "Student",
+  "productName": ["Blackberry", "Nokia Edge", "iphone X"]
+}
