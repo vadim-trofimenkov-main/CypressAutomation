@@ -31,6 +31,7 @@ describe("My first ever test suite on JS", function () {
     products.forEach((element) => {
       cy.selectProduct(element);
     });
+
     productsPage.getCheckoutButton().click();
     // var sum = 0;
     // cy.get("tr td:nth-child(4) strong")
