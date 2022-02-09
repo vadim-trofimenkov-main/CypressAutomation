@@ -5,5 +5,11 @@
   "env": {
     "practiceUdemuCourseUrl": "https://rahulshettyacademy.com/angularpractice/"
   },
+  "testFiles": ["**/*.feature", "**/*.js"],
+  "retries": {
+    "runMode": 1,
+    "openMode": 1
+  },
+
   "projectId": "8qryn7"
 }
